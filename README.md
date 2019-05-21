@@ -1,2 +1,2 @@
-# github.sophieschau.io
+# sophieschau.github.io
 personal website
