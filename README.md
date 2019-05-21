@@ -1,2 +1,2 @@
 # sophieschau.github.io
-personal website
+professional website
