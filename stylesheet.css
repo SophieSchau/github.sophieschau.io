@@ -130,3 +130,12 @@
     background-color: #ffffff;
   }
 
+
+html, body {
+    height: 100%;
+}
+#footer {
+    height: 100%;
+    border-collapse: collapse;
+}
+
