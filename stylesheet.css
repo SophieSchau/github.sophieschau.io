@@ -129,13 +129,18 @@
   span.highlight {
     background-color: #ffffff;
   }
-
-
-html, body {
-    height: 100%;
-}
-#footer {
-    height: 100%;
-    border-collapse: collapse;
-}
+  
+  #container{
+    width: 800px;
+    border: 0;
+    margin-left:auto; 
+    margin-right:auto;
+  }
+  
+  @media (max-width: 600px) {
+    #container {
+      width: 100%;
+      margin: 0;
+    }
+  }
 
